@@ -1,4 +1,4 @@
-apscheduler = 3.8.1
-traceback
+apscheduler == 3.8.1
+traceback2
 datetime
 sys
